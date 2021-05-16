@@ -3,7 +3,6 @@
 @import "./base/fonts";
 @import "./base/common";
 @import "./base/conteiner";
-
 @import "./components/title";
 @import "./components/buttons";
 @import "./components/logo";
@@ -12,13 +11,8 @@
 
 @import "./layouts/section";
 @import "./layouts/header";
-@import "./layouts/hero";
-@import "./layouts/features";
-@import "./layouts/work";
-@import "./layouts/team";
-@import "./layouts/clients";
+@import "./layouts/filter-projects";
+@import "./layouts/projects";
 @import "./layouts/footer";
 
 @import "./components/sign-form";
-@import "./components/modal";
-@import "./components/modal-form";
